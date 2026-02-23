@@ -217,5 +217,14 @@
     "requires": ["java"],
     "user-invocable": true,
     "trigger": "/java-boilerplate"
+  },
+    {
+    "name": "agile-task-analyzer",
+    "description": "Analisa uma tarefa e a decompõe em subtarefas ágeis, recomendando o framework mais adequado (Scrum, Kanban, Scrumban, SAFe, XP) com justificativa e gerando um quadro Kanban visual interativo",
+    "category": "planning",
+    "tags": ["agile", "scrum", "kanban", "planejamento", "gestao", "projetos"],
+    "requires": [],
+    "user-invocable": true,
+    "trigger": "/agile-task"
   }
 ]
